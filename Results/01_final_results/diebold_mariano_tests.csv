@@ -1,0 +1,5 @@
+Comparison,Loss,DM statistic,p-value (one-sided),Days TSO-DTF better,of days
+TSO-DTF vs Reference DTF,Official M5 (daily loss),1.9882617087627774,0.025637543004988106,41,62
+TSO-DTF vs Reference DTF,Product-level WRMSSE (daily loss),7.051685780085865,9.443223980554194e-10,53,62
+TSO-DTF vs Reference DTF (5 seeds),Official M5 (daily loss),1.291293288779417,0.1007369717771982,32,62
+TSO-DTF vs Reference DTF (5 seeds),Product-level WRMSSE (daily loss),4.34865066094044,2.6456027867993726e-05,55,62
